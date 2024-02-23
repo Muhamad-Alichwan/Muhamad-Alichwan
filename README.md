@@ -1,10 +1,6 @@
 # Hello, I'm Muhamad Alichwan 👋
 
-I'm a Fresh Graduate of Informatics Engineering who is passionate about Data Science, AI, & ML , creating technology to elevate people, and building community. Some technologies I enjoy working with include Python, R, SQL, and TensorFlow.
-
-## 🌱 I’m currently learning ...
-
-Now I'm in learning Microsoft AI Azure With Digitalent Program.
+I'm a passionate about Data Science, AI, & ML , creating technology to elevate people, and building community. Some technologies I enjoy working with include Python, R, SQL, and TensorFlow.
 
 ## 💬 Ask me about ...
 
