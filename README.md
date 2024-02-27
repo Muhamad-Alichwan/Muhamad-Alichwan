@@ -16,11 +16,14 @@
 
 <picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 300px></picture>
 
-- A passionate about Data Science, AI, & ML
+- 🔬 A passionate about Data Science, AI, & ML
+- 📜 `Certified TensorFlow Developer`
 - :technologist: **Currently learning** `Machine Learning` **&** `Data Science`
 - :email: Feel free to **reach me out** [![Send me Email](https://img.shields.io/static/v1?label=email&amp;message=Muhamad-Alichwan&amp;color=EA4335&amp;style=flat-square)](mailto:alichwan.muhamad@gmail.com)
+- 🎓  I am an `Informatics Engineering` graduate from Universitas Muhammadiyah Surakarta
+- 🚀 Let's Start this exciting journey together!
 
-<br><br><br><br><br>
+<br><br>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 
